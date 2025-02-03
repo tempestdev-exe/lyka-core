@@ -1,0 +1,17 @@
+{
+    "name": "paprikadev/paprika-core",
+    "description": "Little side project of mine",
+    "type": "framework",
+    "autoload": {
+        "psr-4": {
+            "Paprikadev\\PaprikaCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paprikadev",
+            "email": "ryan@ryanpienaar.dev"
+        }
+    ],
+    "require": {}
+}
