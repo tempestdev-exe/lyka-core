@@ -3,13 +3,13 @@
 /**
  * Class Form
  *
- * @package paprikadev\paprikacore\form
+ * @package ryanp\paprikacore\form
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore\form;
+namespace ryanp\paprikacore\form;
 
-use paprikadev\paprikacore\Model;
+use ryanp\paprikacore\Model;
 
 class Form
 {
