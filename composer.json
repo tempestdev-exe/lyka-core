@@ -1,5 +1,5 @@
 {
-    "name": "paprikadev/paprika-core",
+    "name": "paprikadev/paprikacore",
     "description": "Little side project of mine",
     "type": "framework",
     "autoload": {
