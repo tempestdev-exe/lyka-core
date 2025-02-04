@@ -13,5 +13,6 @@
             "email": "ryan@ryanpienaar.dev"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
