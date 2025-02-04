@@ -3,20 +3,20 @@
 /**
  * Class Controller
  *
- * @package ryanp\paprikacore
+ * @package ryanp\lykacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore;
+namespace ryanp\lykacore;
 
-use ryanp\paprikacore\middleware\BaseGate;
+use ryanp\lykacore\middleware\BaseGate;
 
 class Controller
 {
     public string $layout = 'main';
     public string $action = '';
     /**
-     * @var \ryanp\paprikacore\middleware\BaseGate[]
+     * @var \ryanp\lykacore\middleware\BaseGate[]
      */
     protected array $gates = [];
     public function setLayout($layout)

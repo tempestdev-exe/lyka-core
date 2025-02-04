@@ -3,11 +3,11 @@
 /**
  * Class BaseGate
  *
- * @package ryanp\paprikacore\middleware
+ * @package ryanp\lykacore\middleware
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore\middleware;
+namespace ryanp\lykacore\middleware;
 
 abstract class BaseGate
 {

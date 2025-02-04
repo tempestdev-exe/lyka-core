@@ -3,13 +3,13 @@
 /**
  * Class UserModel
  *
- * @package ryanp\paprikacore
+ * @package ryanp\lykacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore;
+namespace ryanp\lykacore;
 
-use ryanp\paprikacore\db\DBModel;
+use ryanp\lykacore\db\DBModel;
 
 abstract class UserModel extends DBModel
 {

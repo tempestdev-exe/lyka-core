@@ -3,13 +3,13 @@
 /**
  * Class BaseField
  *
- * @package ryanp\paprikacore\form
+ * @package ryanp\lykacore\form
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore\form;
+namespace ryanp\lykacore\form;
 
-use ryanp\paprikacore\Model;
+use ryanp\lykacore\Model;
 
 abstract class BaseField
 {
