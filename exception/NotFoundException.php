@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace paprikadev\paprikacore\exception;
 
 class NotFoundException extends \Exception
 {

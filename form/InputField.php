@@ -3,13 +3,13 @@
 /**
  * Class Field
  *
- * @package app\core\form
+ * @package paprikadev\paprikacore\form
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core\form;
+namespace paprikadev\paprikacore\form;
 
-use app\core\Model;
+use paprikadev\paprikacore\Model;
 
 class InputField extends BaseField
 {

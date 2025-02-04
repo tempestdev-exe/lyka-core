@@ -3,14 +3,14 @@
 /**
  * Class Kernel
  *
- * @package app\core
+ * @package paprikadev\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core;
+namespace paprikadev\paprikacore;
 
-use app\core\db\Database;
-use app\core\db\DBModel;
+use paprikadev\paprikacore\db\Database;
+use paprikadev\paprikacore\db\DBModel;
 
 class Kernel {
 

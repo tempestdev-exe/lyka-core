@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace paprikadev\paprikacore\form;
 
-use app\core\form\BaseField;
+use paprikadev\paprikacore\form\BaseField;
 
 class TextAreaField extends BaseField
 {

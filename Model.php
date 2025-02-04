@@ -3,11 +3,11 @@
 /**
  * Class Model
  *
- * @package app\core
+ * @package paprikadev\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core;
+namespace paprikadev\paprikacore;
 
 abstract class Model
 {

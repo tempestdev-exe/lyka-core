@@ -4,12 +4,12 @@
     "type": "framework",
     "autoload": {
         "psr-4": {
-            "Paprikadev\\PaprikaCore\\": "src/"
+            "paprikadev\\paprikacore": "."
         }
     },
     "authors": [
         {
-            "name": "paprikadev",
+            "name": "Ryan Pienaar",
             "email": "ryan@ryanpienaar.dev"
         }
     ],

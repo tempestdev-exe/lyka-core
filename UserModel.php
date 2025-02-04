@@ -3,13 +3,13 @@
 /**
  * Class UserModel
  *
- * @package app\core
+ * @package paprikadev\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core;
+namespace paprikadev\paprikacore;
 
-use app\core\db\DBModel;
+use paprikadev\paprikacore\db\DBModel;
 
 abstract class UserModel extends DBModel
 {
