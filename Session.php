@@ -3,11 +3,11 @@
 /**
  * Class Session
  *
- * @package app\core
+ * @package paprikadev\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core;
+namespace paprikadev\paprikacore;
 
 class Session
 {

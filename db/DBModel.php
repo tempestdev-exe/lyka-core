@@ -3,14 +3,14 @@
 /**
  * Class DBModel
  *
- * @package app\core
+ * @package paprikadev\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace app\core\db;
+namespace paprikadev\paprikacore\db;
 
-use app\core\Kernel;
-use app\core\Model;
+use paprikadev\paprikacore\Kernel;
+use paprikadev\paprikacore\Model;
 
 abstract class DBModel extends Model
 {
