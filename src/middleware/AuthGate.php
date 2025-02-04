@@ -3,14 +3,14 @@
 /**
  * Class AuthGate
  *
- * @package ryanp\paprikacore\middleware
+ * @package ryanp\lykacore\middleware
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore\middleware;
+namespace ryanp\lykacore\middleware;
 
-use ryanp\paprikacore\exception\ForbiddenException;
-use ryanp\paprikacore\Kernel;
+use ryanp\lykacore\exception\ForbiddenException;
+use ryanp\lykacore\Kernel;
 
 class AuthGate extends BaseGate
 {

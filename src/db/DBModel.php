@@ -3,14 +3,14 @@
 /**
  * Class DBModel
  *
- * @package ryanp\paprikacore
+ * @package ryanp\lykacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore\db;
+namespace ryanp\lykacore\db;
 
-use ryanp\paprikacore\Kernel;
-use ryanp\paprikacore\Model;
+use ryanp\lykacore\Kernel;
+use ryanp\lykacore\Model;
 
 abstract class DBModel extends Model
 {

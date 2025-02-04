@@ -3,14 +3,14 @@
 /**
  * Class Kernel
  *
- * @package ryanp\paprikacore
+ * @package ryanp\lykacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore;
+namespace ryanp\lykacore;
 
-use ryanp\paprikacore\db\Database;
-use ryanp\paprikacore\db\DBModel;
+use ryanp\lykacore\db\Database;
+use ryanp\lykacore\db\DBModel;
 
 class Kernel {
 

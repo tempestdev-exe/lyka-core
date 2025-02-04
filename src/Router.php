@@ -3,13 +3,13 @@
 /**
  * Class Kernel
  *
- * @package ryanp\paprikacore
+ * @package ryanp\lykacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace ryanp\paprikacore;
+namespace ryanp\lykacore;
 
-use ryanp\paprikacore\exception\NotFoundException;
+use ryanp\lykacore\exception\NotFoundException;
 
 class Router {
     public Request $request;

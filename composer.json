@@ -1,10 +1,10 @@
 {
-    "name": "ryanp/paprikacore",
+    "name": "ryanp/lyka-core",
     "description": "Little side project",
     "type": "framework",
     "autoload": {
         "psr-4": {
-            "ryanp\\paprikacore\\": "src/"
+            "ryanp\\lykacore\\": "src/"
         }
     },
     "authors": [
@@ -13,5 +13,6 @@
             "email": "ryan@ryanpienaar.dev"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }

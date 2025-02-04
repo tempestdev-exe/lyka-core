@@ -1,8 +1,8 @@
 <?php
 
-namespace ryanp\paprikacore\form;
+namespace ryanp\lykacore\form;
 
-use ryanp\paprikacore\form\BaseField;
+use ryanp\lykacore\form\BaseField;
 
 class TextAreaField extends BaseField
 {
