@@ -1,5 +1,5 @@
 {
-    "name": "ryanp/paprikacore",
+    "name": "ryanp/paprika-core",
     "description": "Little side project",
     "type": "framework",
     "autoload": {
