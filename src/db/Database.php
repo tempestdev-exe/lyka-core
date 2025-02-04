@@ -3,13 +3,13 @@
 /**
  * Class Database
  *
- * @package paprikadev\paprikacore
+ * @package ryanp\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore\db;
+namespace ryanp\paprikacore\db;
 
-use paprikadev\paprikacore\Kernel;
+use ryanp\paprikacore\Kernel;
 
 class Database
 {

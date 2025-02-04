@@ -3,11 +3,11 @@
 /**
  * Class ForbiddenException
  *
- * @package paprikadev\paprikacore\exception
+ * @package ryanp\paprikacore\exception
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore\exception;
+namespace ryanp\paprikacore\exception;
 
 class ForbiddenException extends \Exception
 {

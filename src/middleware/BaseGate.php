@@ -3,11 +3,11 @@
 /**
  * Class BaseGate
  *
- * @package paprikadev\paprikacore\middleware
+ * @package ryanp\paprikacore\middleware
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore\middleware;
+namespace ryanp\paprikacore\middleware;
 
 abstract class BaseGate
 {
