@@ -4,7 +4,7 @@
     "type": "framework",
     "autoload": {
         "psr-4": {
-            "paprikadev\\paprikacore": "."
+            "paprikadev\\paprikacore\\": "."
         }
     },
     "authors": [
