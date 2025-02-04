@@ -3,11 +3,11 @@
 /**
  * Class Request
  *
- * @package paprikadev\paprikacore
+ * @package ryanp\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore;
+namespace ryanp\paprikacore;
 
 /**
  * Description of Request

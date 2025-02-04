@@ -3,13 +3,13 @@
 /**
  * Class Kernel
  *
- * @package paprikadev\paprikacore
+ * @package ryanp\paprikacore
  * @author Ryan Pienaar <ryan@ryanpienaar.dev>
  */
 
-namespace paprikadev\paprikacore;
+namespace ryanp\paprikacore;
 
-use paprikadev\paprikacore\exception\NotFoundException;
+use ryanp\paprikacore\exception\NotFoundException;
 
 class Router {
     public Request $request;

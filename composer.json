@@ -1,10 +1,10 @@
 {
-    "name": "paprikadev/paprikacore",
-    "description": "Little side project of mine",
+    "name": "ryanp/paprikacore",
+    "description": "Little side project",
     "type": "framework",
     "autoload": {
         "psr-4": {
-            "paprikadev\\paprikacore\\": "."
+            "ryanp\\paprikacore\\": "src/"
         }
     },
     "authors": [
